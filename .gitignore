@@ -1,0 +1,8 @@
+# local virtual environment
+.venv/
+
+# python cache 
+__pycache__/
+
+# jupyter backups 
+.ipynb_checkpoints/
